@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "vrAl7OWCf0g=",
+  "success": true,
+  "projectFilePath": "/Users/carlosmiranda/Desktop/EmailApi/EmailApi.csproj",
+  "expectedPackageFiles": [
+    "/Users/carlosmiranda/.nuget/packages/microsoft.aspnetcore.openapi/9.0.0/microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
+    "/Users/carlosmiranda/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512",
+    "/Users/carlosmiranda/.nuget/packages/questpdf/2024.12.1/questpdf.2024.12.1.nupkg.sha512"
+  ],
+  "logs": []
+}
